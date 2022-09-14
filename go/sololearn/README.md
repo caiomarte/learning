@@ -80,4 +80,4 @@ Resources produced during [SoloLearn's Go](https://www.sololearn.com/learning/11
 
 ---
 ## Certificate of Completion
-#![certificate](certificate.png)
+![certificate](certificate.png)
